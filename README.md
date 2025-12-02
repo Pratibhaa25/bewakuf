@@ -26,6 +26,8 @@ Alternatively, use VS Code Live Server extension and open `index.html`.
 - Replace `images/profile.svg` with your own photo or SVG.
 - Edit copy and projects in `index.html`.
 - Update colors in `styles.css`.
+- pratibha is good girl
+- 
 
 ## Deploy
 
